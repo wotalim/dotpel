@@ -1,2 +1,5 @@
 # simple-ps1
-simple bashrc config
+
+this is simple bashrc config
+
+im using rxvt-unicode
